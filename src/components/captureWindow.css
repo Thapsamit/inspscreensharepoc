@@ -36,3 +36,18 @@
   /* background-color: aqua; */
   /* border-color: red; */
 }
+/* 
+.video-container {
+  overflow: hidden; 
+  width: 640px;
+  height: 360px;
+}
+
+
+.video-container .video-source {
+  width: 100%;
+  height: 100%; 
+  object-fit: cover; 
+} 
+
+*/
