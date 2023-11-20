@@ -145,7 +145,7 @@ function createMainWindow() {
     console.log("mouse entering");
     BrowserWindow.fromWebContents(event.sender).setIgnoreMouseEvents(...args);
   });
-
+  //hi
   // mainWindow.setContentProtection(true);
   mainWindow.on("closed", () => {
     if (captureWindow) {
